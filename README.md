@@ -16,5 +16,5 @@
 ```uvicorn Code:app --reload```
 
 ### Run ReactJS
-```npm i```
-```npm run dev```
+- ```npm i```
+- ```npm run dev```
